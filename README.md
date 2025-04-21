@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Results summary component
 
 ![Design preview for the Results summary component coding challenge](./preview.jpg)
@@ -95,3 +96,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Result-Summary
+This is a clone of the Result Summary design from Frontend Mentor
+>>>>>>> 7b40d3775364054d5c87677f6ec343f382453d59
